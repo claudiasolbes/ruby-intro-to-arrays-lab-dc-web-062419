@@ -28,7 +28,8 @@ end
 end
 
 def length_of_array
-  
+  array.count
+end
   
   
   
