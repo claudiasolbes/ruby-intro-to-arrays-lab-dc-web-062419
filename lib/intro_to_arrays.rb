@@ -19,3 +19,4 @@ def last_element
   array2[-1]
 end
 
+def 
